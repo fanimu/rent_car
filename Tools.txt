@@ -1,0 +1,3 @@
+- Menggunakan Framework laravel v 11
+- Menggunakan Template Bootsrap Dasmin
+- Database SQL Lite (Login: admin, password:admin)
